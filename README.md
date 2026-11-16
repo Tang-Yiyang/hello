@@ -19,3 +19,5 @@ hello
 hello, 唐逸扬
 环境装好了，今天这一步完成。
 ```
+
+- 仓库地址：https://github.com/Tang-Yiyang/hello
